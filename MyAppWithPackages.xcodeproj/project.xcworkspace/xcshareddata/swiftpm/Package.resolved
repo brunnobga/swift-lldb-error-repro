@@ -1,0 +1,34 @@
+{
+  "object": {
+    "pins": [
+      {
+        "package": "Apptimize",
+        "repositoryURL": "https://github.com/urbanairship/apptimize-ios-kit.git",
+        "state": {
+          "branch": null,
+          "revision": "aab5ae628bbb7075fb765800d328d27b94310b4d",
+          "version": "3.4.20"
+        }
+      },
+      {
+        "package": "RxCoreData",
+        "repositoryURL": "https://github.com/scorebreak/RxCoreData.git",
+        "state": {
+          "branch": "master",
+          "revision": "f0f986f5a4c8a02a6c4da7f52b8f86056eaee7d5",
+          "version": null
+        }
+      },
+      {
+        "package": "RxSwift",
+        "repositoryURL": "https://github.com/ReactiveX/RxSwift.git",
+        "state": {
+          "branch": null,
+          "revision": "cec68169a048a079f461ba203fe85636548d7a89",
+          "version": "5.1.3"
+        }
+      }
+    ]
+  },
+  "version": 1
+}
